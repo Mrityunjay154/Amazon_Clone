@@ -1,5 +1,5 @@
 # Amazon_Clone
 <i class="fa-brands fa-amazon"></i>
 <br>
-This project is related to the clone of Amazon shopping website.
+This project is related to the clone of Amazon shopping website
 The project is created by using HTML & CSS.
